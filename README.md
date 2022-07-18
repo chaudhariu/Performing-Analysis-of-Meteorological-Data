@@ -1,5 +1,5 @@
 # Performing-Analysis-of-Meteorological-Data
-https://surajbhute.medium.com/performing-analysis-of-meteorological-data-72d55483c8ee
+https://chaudhariu2002.blogspot.com/2022/07/performing-analysis-of-meteorological.html
 Performing Analysis of Meteorological Data
  
 
@@ -11,6 +11,6 @@ Global warming is deteriorating the climate and is affecting various parameters 
 
 WRITTEN BY
 
-Suraj Bhute
+Utkarsha Chaudhari
 Engineer
 
